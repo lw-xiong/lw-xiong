@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lwx_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lwx.src@gmail.com) 
 
@@ -7,6 +6,9 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/lwx_src) 
+
+---
+![snake gif](https://github.com/lw-xiong/lw-xiong/blob/output/github-contribution-grid-snake.gif)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
