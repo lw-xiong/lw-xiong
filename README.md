@@ -8,7 +8,7 @@
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/lwx_src) 
 
 ---
-![snake gif](https://github.com/lw-xiong/lw-xiong/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lw-xiong/lw-xiong/blob/output/github-contribution-grid-snake.svg)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
