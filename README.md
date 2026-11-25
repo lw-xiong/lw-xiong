@@ -1,6 +1,6 @@
 # Alexander Davin Kristanto / G.O.A.T🐐
 
-Undergrad at Zhejiang University of Science and Technology. I build small, zero-dependency tools and desktop stuff. I run [Silica](https://github.com/lw-xiong/Silica) and [9router-go](https://github.com/luqman-v1/9router-go).
+Undergrad at Zhejiang University of Science and Technology. I build small, zero-dependency tools and desktop stuff. Developed [Silica](https://github.com/lw-xiong/Silica) and is contributing towards [9router-go](https://github.com/luqman-v1/9router-go).
 
 [LinkedIn](https://www.linkedin.com/in/alexander-davin-kristanto/) · [Reddit](https://www.reddit.com/user/lwx_dev/) · [Discord](https://discord.com/users/abraxos._.) · [Email](mailto:lwx.src@gmail.com)
 
