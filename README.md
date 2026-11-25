@@ -1,4 +1,4 @@
-# Alexander Davin Kristanto / G.O.A.T🐐
+# Alexander Davin Kristanto / G.O.A.T🐐 / 李文雄
 
 Undergrad at Zhejiang University of Science and Technology majoring in AI. I build small, zero-dependency tools and desktop stuff. Developed [Silica](https://github.com/lw-xiong/Silica) and is contributing towards [9router-go](https://github.com/luqman-v1/9router-go).
 
