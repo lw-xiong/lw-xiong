@@ -1,42 +1,38 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
-<a href="https://github.com/lw-xiong">
-  <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />
-</a>
-<a href="https://dr-at0mic.github.io">
-  <img align="left" alt="Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubsponsors.svg" />
-</a>
+### Hey there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=lw-xiong.lw-xiong)
+<a href="https://www.linkedin.com/in/alexander-davin-kristanto/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.reddit.com/user/lwx_dev/">
+  <img src="https://img.shields.io/badge/Reddit-u%2Flwx_dev-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
+<img src="https://img.shields.io/badge/Discord-abraxos._.-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Email-lwx.src%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 
 <br />
 
-Hi, I'm **lwx** 👋 — I build small, zero-dependency web apps and developer tools. I run [**Silica**](https://github.com/lw-xiong/Silica) and [**9router-go**](https://github.com/lw-xiong/9router-go), and I maintain the [**ciel-agent**](https://github.com/lw-xiong/ciel-agent) harness.
+I'm Alexander Davin Kristanto — undergrad at Zhejiang University of Science and Technology. I build small, zero-dependency tools and desktop stuff. I run [Silica](https://github.com/lw-xiong/Silica) and [9router-go](https://github.com/lw-xiong/9router-go).
 
-- 🔭 I'm currently working on **Silica** (v0.7.7) and **9router-go**
-- 🌱 I'm currently learning low-level UI tooling and desktop shells
-- 👯 I'm looking to collaborate on open-source desktop tooling
-- 💬 Ask me about anything: Silica, 9router-go, CachyOS, fish, Hyprland
-- 📫 How to reach me: open an issue on any of my repos
-
-<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- Currently working on Silica and 9router-go
+- Learning low-level UI tooling, desktop shells, CachyOS, fish, Hyprland
+- Open to collaborating on desktop tooling
+- Best way to reach me: open an issue, or catch me on Discord or Reddit
 
 **Languages and Tools:**
 
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Go        8 hrs 12 mins   ████████████▓░░░░░░░░░░░░░░░   52.00 %
-Rust      4 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░░░░░   30.00 %
-TypeScript 1 hr 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Rust      4 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░░░░░   52.00 %
+Go        2 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░   25.00 %
+TypeScript 1 hr 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15.00 %
 Shell     1 hr 00 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 ```
 <!--END_SECTION:waka-->
@@ -65,15 +61,9 @@ Shell     1 hr 00 mins    █░░░░░░░░░░░░░░░░░
 
 -----
 
-**Featured projects:**
+**Projects:**
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| [Silica](https://github.com/lw-xiong/Silica) | Desktop shell / app framework | Rust |
-| [9router-go](https://github.com/lw-xiong/9router-go) | URL router library | Go |
-| [ciel-agent](https://github.com/lw-xiong/ciel-agent) | Agent harness (fork of Hermes) | Python |
-| [KERN](https://github.com/lw-xiong/KERN) | Small no-dep web app | TypeScript |
-
------
-
-Credits: adapted from [abhisheknaiidu](https://github.com/abhisheknaiidu) / [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+| Project | What it is |
+|---------|------------|
+| [Silica](https://github.com/lw-xiong/Silica) | Desktop shell / app framework in Rust |
+| [9router-go](https://github.com/lw-xiong/9router-go) | High-performance URL router in Go |
