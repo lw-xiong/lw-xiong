@@ -1,4 +1,4 @@
-# Alexander Davin Kristanto
+# Alexander Davin Kristanto / G.O.A.T🐐
 
 Undergrad at Zhejiang University of Science and Technology. I build small, zero-dependency tools and desktop stuff. I run [Silica](https://github.com/lw-xiong/Silica) and [9router-go](https://github.com/luqman-v1/9router-go).
 
@@ -8,7 +8,7 @@ Undergrad at Zhejiang University of Science and Technology. I build small, zero-
 
 **Currently working on:** Silica (desktop shell, Rust) · 9router-go (URL router, Go)
 
-**Learning:** low-level UI tooling, desktop shells, CachyOS, fish, Hyprland
+**Learning:** Agentic Harness, Persistent Agentic Memory, Routing, SQL
 
 **Open to:** collaborating on desktop tooling
 
