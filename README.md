@@ -18,7 +18,6 @@ Undergrad at Zhejiang University of Science and Technology majoring in AI. I bui
   <img src="https://github-readme-stats.vercel.app/api?username=lw-xiong&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="GitHub stats for lw-xiong" />
 </p>
 
-[![Silica · Rust](https://img.shields.io/badge/Silica-Rust-8A2BE2?style=flat-square&logo=rust&logoColor=white)](https://github.com/lw-xiong/Silica) &nbsp; [![9router-go · Go](https://img.shields.io/badge/9router--go-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/luqman-v1/9router-go)
 
 ---
 
